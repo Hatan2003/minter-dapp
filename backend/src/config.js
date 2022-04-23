@@ -43,7 +43,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://teddybearnft1.wixsite.com/brawneyteddybears", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
